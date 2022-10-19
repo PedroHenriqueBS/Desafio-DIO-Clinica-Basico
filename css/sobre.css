@@ -1,0 +1,19 @@
+.content {
+    margin-top: 100px;
+    display: flex;
+    min-height: 500px;
+}
+
+.image {
+    float: left;
+}
+
+.bloco2 {
+    float: right;
+    margin-left: 20px;
+}
+
+.bloco2 h2 {
+    text-align: left;
+    padding: 0;
+}

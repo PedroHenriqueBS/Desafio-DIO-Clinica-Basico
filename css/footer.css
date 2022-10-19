@@ -1,0 +1,68 @@
+.footer {
+    display: flex;
+    background-color:  #79dfcc;
+    min-height: 150px;
+    width: 100%;
+    margin-top: 50px;
+    border-top: 2px solid #1C5731;
+    align-items: center;
+}
+
+.box {
+    width: 35%;
+    text-align: right;
+    padding-right: 15px;
+}
+
+.dados {
+    width: 40%;
+    text-align: center;
+    
+}
+
+label {
+    font-weight: bold;
+    color: rgb(78, 77, 77);
+    
+}
+
+.campo {
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.envio {
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    background-color: orange;
+    border-color: gray;
+    
+}
+
+.envio:hover {
+    background-color: rgb(255, 153, 0);
+    cursor: pointer;
+}
+
+.cont-roda {
+    width: 25%;
+    text-align: left;
+    
+}
+
+.cont-roda ul {
+    list-style: none;
+
+}
+
+.cont-roda a {
+    text-decoration: none;
+    color: #054968;
+    font-weight: bold;
+}
+.cont-roda a:hover {
+    text-decoration: underline white 2px;
+}
